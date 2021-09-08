@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "first_name": "Jhon",
+      "second_name": "Jairo",
+      "last_name": "Hernandez Castañeda",
+      "user": "jkjk09@gmail.com",
+      "password": "500_ZqwO8)2*{}"
+    },
+    {
+      "first_name": "Admin",
+      "second_name": "",
+      "last_name": "Admin",
+      "user": "admin@admin.com",
+      "password": "admin"
+    }
+  ]
+}
