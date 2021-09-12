@@ -6,15 +6,7 @@
       "last_name": "Hernandez Castañeda",
       "user": "jkjk09@gmail.com",
       "password": "500_ZqwO8)2*{}",
-      "movies": [
-        {
-          "name": "",
-          "vote": 0,
-          "img": null,
-          "description": "",
-          "id": 0
-        }
-      ],
+      "movies": [ ],
       "id": 1
     },
     {
@@ -23,15 +15,7 @@
       "last_name": "Admin",
       "user": "admin@admin.com",
       "password": "admin",
-      "movies": [
-        {
-          "name": "",
-          "vote": 0,
-          "img": null,
-          "description": "",
-          "id": 0
-        }
-      ],
+      "movies": [ ],
       "id": 2
     }
   ]
